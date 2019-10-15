@@ -696,7 +696,5 @@ C!------------------Energies----------------------------------------------------
       			END DO	
       		END IF
       	END IF
-C!       OPEN(105,FILE='Z:\PhD\Abaqus User Subroutines\VU22Out.txt',POSITION='append')
-C!      WRITE(105,*) uz_i(1),fz_i(1),uz_i(2),fz_i(2),time(2)
        END        
       
