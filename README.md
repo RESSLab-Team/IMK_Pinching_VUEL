@@ -93,8 +93,7 @@ variables=38
 *End Part
 **  
 
-
-NOTE #2: A maximum of 8 UEL properties can be input per line
+NOTE #2: The properties shall be input in the same order specified above (i.e. starting with Ke and ending with mass). A maximum of 8 UEL properties can be input per line. 
 
 NOTE #3: The properties define the non-linear behavior of the spring in the loading direction. In the transverse
 direction, the behavior is assumed to be elastic with a stiffness equal to Ke.
